@@ -1,0 +1,31 @@
+    version: "3.9"
+
+    services:
+      mariadb:
+        image: mariadb
+        restart: always
+        environment:
+          MYSQL_ROOT_PASSWORD: secret
+        volumes:
+          - ./data:/var/lib/mysql
+        ports:
+          - 3300:3306
+        container_name: database
+
+
+      debian:
+        build:
+          context: .
+          dockerfile: Dockerfile
+        restart: always
+        ports:
+          - 7000:80
+        container_name: debian
+
+
+
+
+
+      
+
+
