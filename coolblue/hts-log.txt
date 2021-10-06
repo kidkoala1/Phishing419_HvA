@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 06 Oct 2021 10:32:38 at https://coolblue.spxportal.com/identityserver/Account/Signin?ReturnUrl=%2fidentityserver%2fissue%2fwsfed%3fwtrealm%3durn%253AESS%26wctx%3dWsFedOwinState%253DWrxNyhEOI2-ngJ0Rp9rquD2wWnL538i-y0oy7k3QVUsqO09jis1AooXVBd48rDs90glF1MWKSZQX1n0bo7OYlG7OmPI2krjhDJriQcPluAv9EnbVfPAFmkR4jdvUdzjLcAxHzjcKPXdyqCjKn1QJJw%26wa%3dwsignin1.0%26wreply%3dhttps%253A%252F%252Fcoolblue.spxportal.com%252FESS%252F%26RequiredEssSession%3dTrue&wtrealm=urn%3AESS&wctx=WsFedOwinState%3DWrxNyhEOI2-ngJ0Rp9rquD2wWnL538i-y0oy7k3QVUsqO09jis1AooXVBd48rDs90glF1MWKSZQX1n0bo7OYlG7OmPI2krjhDJriQcPluAv9EnbVfPAFmkR4jdvUdzjLcAxHzjcKPXdyqCjKn1QJJw&wa=wsignin1.0&wreply=https%3A%2F%2Fcoolblue.spxportal.com%2FESS%2F&RequiredEssSession=True +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://coolblue.spxportal.com/identityserver/Account/Signin?ReturnUrl=%2fidentityserver%2fissue%2fwsfed%3fwtrealm%3durn%253AESS%26wctx%3dWsFedOwinState%253DWrxNyhEOI2-ngJ0Rp9rquD2wWnL538i-y0oy7k3QVUsqO09jis1AooXVBd48rDs90glF1MWKSZQX1n0bo7OYlG7OmPI2krjhDJriQcPluAv9EnbVfPAFmkR4jdvUdzjLcAxHzjcKPXdyqCjKn1QJJw%26wa%3dwsignin1.0%26wreply%3dhttps%253A%252F%252Fcoolblue.spxportal.com%252FESS%252F%26RequiredEssSession%3dTrue&wtrealm=urn%3AESS&wctx=WsFedOwinState%3DWrxNyhEOI2-ngJ0Rp9rquD2wWnL538i-y0oy7k3QVUsqO09jis1AooXVBd48rDs90glF1MWKSZQX1n0bo7OYlG7OmPI2krjhDJriQcPluAv9EnbVfPAFmkR4jdvUdzjLcAxHzjcKPXdyqCjKn1QJJw&wa=wsignin1.0&wreply=https%3A%2F%2Fcoolblue.spxportal.com%2FESS%2F&RequiredEssSession=True -O1 "C:\My Web Sites\coolblue" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:32:39	Warning: 	Redirect for https://coolblue.spxportal.com/robots.txt
+10:32:39	Warning: 	File has moved from https://coolblue.spxportal.com/robots.txt to https://coolblue.spxportal.com/ESS
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 8 links scanned, 7 files written (428075 bytes overall) [162952 bytes received at 54317 bytes/sec], 391136 bytes transferred using HTTP compression in 5 files, ratio 31%
+(No errors, 2 warnings, 0 messages)
