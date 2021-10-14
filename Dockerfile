@@ -15,6 +15,7 @@ RUN pip3 install  mysqlclient
 RUN pip3 install mysql-connector-python
 RUN pip install Flask
 
+
 # Copy over the apache configuration file and enable the site
 COPY ./TP.conf /etc/apache2/sites-available/TP.conf
 
